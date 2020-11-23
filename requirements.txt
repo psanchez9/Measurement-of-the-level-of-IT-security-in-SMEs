@@ -1,0 +1,6 @@
+argparse
+bs4
+colored
+prettytable
+requests
+pandas
